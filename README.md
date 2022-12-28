@@ -1,6 +1,13 @@
 # Changelog
 
 
+### v1.2.2 - 28/12/2022
+- Added to the author name and description fields for all ESPs
+- Actually uploaded v1.2.1 properly, sorry!
+- Rodryk's Dragon Bridge patch:
+	- Added patch for Happy Little Shrubs that removes one shrub clipping in the Lylvieve Family's House stairs (works standalone)
+	- Slightly adjusted navmeshes all around
+
 ### v1.2.1 - 25/12/2022
 - Cleaned masters from (mainly removing JKs_Skyrim_No_Lights_Patch):
 	- TGCoJN - Lux Orbis Patch
@@ -10,7 +17,7 @@
 - Fixes:
 	- Removed a cliff rock added by JK's in Dragon Bridge
 - Rodryk's Dragon Bridge patch:
-	- Added R's Farmhouse Patch
+	- Added patch for R's Farmhouse
 	- Renamed Lux Orbis patch to "TGCoJN + Rodryk's Dragon Bridge - Lux Orbis Patch.esp"
 	- Removed Bjorn from TGC, whoops
 	- Removed a bunch of records identical to JK's that were overwriting TGCoJN for objects that were supposed to be disabled
