@@ -1,7 +1,10 @@
+---
 name: Patch request
-description: Suggest a patch to add to the collection
+about: Suggest a patch to add to the collection
+title: ''
 labels: [ patch request ]
 assignees: mosharky
 
+---
 **Description**
 Describe your patch request! Please make sure it isn't a load order issue or a patch that's already been made by me or someone else. You can request any kind of patch, mostly.
