@@ -2,7 +2,7 @@
 name: Patch request
 about: Suggest a patch to add to the collection
 title: ''
-labels: [ patch request ]
+labels: [ bug ]
 assignees: mosharky
 
 ---
