@@ -1,0 +1,39 @@
+name: Bug Report
+description: Report a bug/crash/error
+labels: [ bug ]
+assignees: mosharky
+body:
+  - type: input
+    id: mod-version
+    attributes:
+      label: Mod Version
+      placeholder: "Ex: v1.0.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: categories
+    attributes:
+      label: Categories
+      multiple: true
+      options:
+        - EEK's Beautiful Whiterun
+        - JK's Skyrim
+        - Rodryk's Dragon Bridge
+        - Rogue Unicorn's City Trees
+        - The Great Cities of JK's North
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your issue
+    validations:
+      required: true
+
+  - type: input
+    id: logs
+    attributes:
+      label: Crash report/logs
+      description: Paste a link to the crash report, if applicable
