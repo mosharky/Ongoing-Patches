@@ -1,6 +1,7 @@
 name: Bug Report
-description: Report a bug/crash/error
-labels: [ bug ]
+description: Report a bug/crash/error, or some other issue
+title: '[Bug]: '
+labels: [ "bug" ]
 assignees: mosharky
 body:
   - type: input
@@ -12,9 +13,9 @@ body:
       required: true
 
   - type: dropdown
-    id: categories
+    id: group
     attributes:
-      label: Categories
+      label: Group
       multiple: true
       options:
         - EEK's Beautiful Whiterun
@@ -22,6 +23,7 @@ body:
         - Rodryk's Dragon Bridge
         - Rogue Unicorn's City Trees
         - The Great Cities of JK's North
+        - not here because I forgot to add it
     validations:
       required: true
 
