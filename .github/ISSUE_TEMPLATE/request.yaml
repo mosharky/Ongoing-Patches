@@ -1,5 +1,5 @@
 name: Patch request
-description: Suggest any patch to add to the collection
+description: Suggest any patch or fix to add to the collection
 title: '[Patch Request]: '
 labels: [ "patch request" ]
 assignees: mosharky
@@ -10,15 +10,17 @@ body:
       label: Checklist
       description: Please make sure all of the following are true
       options:
-        - label: This patch doesn't already exist
+        - label: Does not already exist
           required: true
-        - label: This patch would only contain ESPs or mesh fixes
+        - label: Would only contain ESPs or mesh fixes
           required: true
+        - label: Was not already requested
+          required: true
+        - label: Is not a load order issue (if unsure, its okay to leave unticked)
   - type: textarea
     id: request
     attributes:
-      label: Request away!
-      description: Describe your patch request! Please make sure it isn't a load order issue or a patch that's already been made by me or someone else. You can request any kind of patch, mostly.
-      placeholder: 
-    validations:
+      label: Description
+      description: Describe your patch request
+      placeholder: Ex: The combination of mods and why they need a patch
       required: true
