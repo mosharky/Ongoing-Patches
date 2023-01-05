@@ -17,6 +17,7 @@ body:
         - label: Was not already requested
           required: true
         - label: Is not a load order issue (if unsure, its okay to leave unticked)
+          required: false
   - type: textarea
     id: request
     attributes:
