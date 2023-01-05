@@ -51,9 +51,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/mosharky/Ongoing-Patches/wiki"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/patch_descriptions.png"/></a>
-  <a href="https://github.com/mosharky/Ongoing-Patches/CHANGELOG.md"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/changelog.png"/></a>
-  <a href="https://discord.gg/4fcsmF2VHK"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/discord.png"/></a>
+  <a href="https://github.com/mosharky/Ongoing-Patches/wiki"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/patch_descriptions.png" width=320/></a>
+  <a href="https://github.com/mosharky/Ongoing-Patches/CHANGELOG.md"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/changelog.png" width=320/></a>
+  <a href="https://discord.gg/4fcsmF2VHK"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/discord.png" width=320/></a>
 </p>
 
 
