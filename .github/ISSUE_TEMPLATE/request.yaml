@@ -22,5 +22,5 @@ body:
     attributes:
       label: Description
       description: Describe your patch request
-      placeholder: Ex: The combination of mods and why they need a patch
+      placeholder: ex - The combination of mods and why they need a patch
       required: true
