@@ -60,13 +60,13 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/credits.png"></p>
 
-- EvilEyedKyo, for creating EEK's Beautiful Whiterun
-- jkrojmal, for JK's Skyrim
-- AlistairRodryk, for Rodryk's Dragon Bridge
-- somohexual, for allowing me to fix up and create patches for his JK's skyrim patch
-- RogueUnicorn/Sniper00, for City Trees
-- Garrden, for creating The Great Cities of JK's North and allowing me to fix up and create patches for his work. Also for being cool
-- Janquel, for being cool and helpful
-- SkyHUD/Fhaarkas for allowing mod authors to use their UI assets
-- Koveich for their open-source Sovngarde font
-- my girlfriend for scratching my beard while i mod skyrim and helping me with photoshop
+- **EvilEyedKyo**, for creating EEK's Beautiful Whiterun
+- **jkrojmal**, for JK's Skyrim
+- **AlistairRodryk**, for Rodryk's Dragon Bridge
+- **somohexual**, for allowing me to fix up and create patches for his JK's skyrim patch
+- **RogueUnicorn/Sniper00**, for City Trees
+- **Garrden**, for creating The Great Cities of JK's North and allowing me to fix up and create patches for his work. Also for being cool
+- **Janquel**, for being cool and helpful
+- **SkyHUD/Fhaarkas**, for allowing mod authors to use their UI assets
+- **Koveich**, for their open-source Sovngarde font
+- **my girlfriend**, for scratching my beard while i mod skyrim and helping me with photoshop
