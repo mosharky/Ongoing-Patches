@@ -4,14 +4,6 @@ title: '[Bug]: '
 labels: [ "bug" ]
 assignees: mosharky
 body:
-  - type: input
-    id: mod-version
-    attributes:
-      label: Mod Version
-      placeholder: "Ex: v1.0.0"
-    validations:
-      required: true
-
   - type: dropdown
     id: group
     attributes:
@@ -23,7 +15,7 @@ body:
         - Rodryk's Dragon Bridge
         - Rogue Unicorn's City Trees
         - The Great Cities of JK's North
-        - not here because I forgot to add it
+        - not here
     validations:
       required: true
 

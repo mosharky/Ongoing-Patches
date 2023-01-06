@@ -4,11 +4,23 @@ title: '[Patch Request]: '
 labels: [ "patch request" ]
 assignees: mosharky
 body:
+  - type: markdown
+    attributes:
+      value: Provide a summary of the issue in the Title above
+
+  - type: textarea
+    id: request
+    attributes:
+      label: Describe your patch request
+      description: e.g. Why it's needed and what doesn't work
+    validations:
+      required: true
+
   - type: checkboxes
     id: checklist
     attributes:
       label: Checklist
-      description: Please make sure all of the following are true
+      description: Please acknowledge that the patch you're requesting..
       options:
         - label: Does not already exist
           required: true
@@ -16,11 +28,7 @@ body:
           required: true
         - label: Was not already requested
           required: true
-        - label: Is not a load order issue (if unsure, its okay to leave unticked)
+        - label: Is not a symptom of a load order issue (if unsure, its okay to leave unticked)
           required: false
-  - type: textarea
-    id: request
-    attributes:
-      label: Description
-      description: Describe your patch request
-      placeholder: ex - The combination of mods and why they need a patch
+        - label: May not be considered
+          required: true
