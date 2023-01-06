@@ -22,7 +22,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Describe your issue
+      label: Describe your issue. Try to go in-depth.
     validations:
       required: true
 
