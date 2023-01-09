@@ -1,7 +1,11 @@
 <h2 align="center"><b>CHANGELOG</h2></b>
 ‎
 
-
+## **[v1.0.1] - 08/01/2023**
+### **Rodryk's Dragon Bridge:**
+- Added "Rodryk's Dragon Bridge + JK's Skyrim - LFFGM Patch Fix"
+  - Requires [Rodryks x JK's Skyrim LFFGM Patch by somohexual](https://www.nexusmods.com/skyrimspecialedition/mods/50408)
+  - Credit to Tobes from the Patching Pub discord
 
 
 ***
