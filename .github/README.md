@@ -17,6 +17,7 @@
   - Fortified Whiterun
   - Lux Orbis Patch Fix
   - Lux Orbis Whiterun Horse Statue
+  - SunHelm
 ## **[JK's Skyrim by jkrojmal](https://www.nexusmods.com/skyrimspecialedition/mods/6289)**
 - **Addons:**
   - No Extra Nirnroot in Morthal (works w/o JK's Skyrim)
@@ -33,8 +34,11 @@
     - R's Farmhouse
 ## **[City Trees by RogueUnicorn](https://www.nexusmods.com/skyrimspecialedition/mods/35546)**
 - **Patches:**
-  - EEK's Whiterun
-  - JK's Skyrim Patch Fix
+  - Whiterun:
+    - EEK's Whiterun
+    - JK's Skyrim Patch Fix
+  - Windhelm:
+    - Lux Orbis + JK's Skyrim Patch
 ## **[The Great Cities of JK's North by Garrden](https://www.nexusmods.com/skyrimspecialedition/mods/81042)**
 - **Patches:**
   - Fixes

@@ -1,6 +1,33 @@
 <h2 align="center"><b>CHANGELOG</h2></b>
 ‎
 
+
+## **[v1.0.2] - 10/01/2023**
+- Multiple FOMOD fixes
+### **EEK's Whiterun:**
+- Fixes:
+  - Renamed EEK's added guards to "Whiterun Guard"
+  - Removed Callon's hunting AI package due to him fighting the whiterun guards
+  - Fixes navmesh around a crate
+- No Tree Circle Braziers:
+  - Removed warming hands idle marker around one of the braziers
+- Revert Whiterun Market:
+  - Moved idle marker
+- Added SunHelm Patch:
+  - Moves the well bucket to fit EEK's new well mesh
+
+### **City Trees:**
+- Renamed existing patches:
+  - City Trees - JK's Skyrim Patch Fix -> City Trees Whiterun - JK's Skyrim Patch Fix
+  - City Trees - EEK's Whiterun Patch -> City Trees Whiterun - EEK's Whiterun Patch
+- Re-categorized options in FOMOD
+- Added City Trees Windhelm - Lux Orbis + JK's Skyrim Patch:
+  - Removes the two maple vines that clip into the Lux Orbis - JK's Skyrim Patch's two braziers
+
+
+***
+
+
 ## **[v1.0.1] - 08/01/2023**
 ### **Rodryk's Dragon Bridge:**
 - Added "Rodryk's Dragon Bridge + JK's Skyrim - LFFGM Patch Fix"
