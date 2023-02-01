@@ -49,7 +49,7 @@
 
 ## **[The Great Cities of JK's North by Garrden](https://www.nexusmods.com/skyrimspecialedition/mods/81042)**
 - **Patches:** - I would highly suggest you view the [full patch descriptions](https://github.com/mosharky/Ongoing-Patches/wiki/The-Great-Cities-of-JK's-North) for load order guidance and more information
-  - ~~Fixes~~ *integrated*
+  - ~~Fixes~~ *integrated into TGCoJKN now*
   - **Lux** - (*Ensures the right Lux patches between COTN and TGC win*)
   - **Lux Orbis** - (*Ensures the right patches between COTN and TGC win*)
   - **The Great Cities of JK's North + Rodryk's Dragon Bridge:**
