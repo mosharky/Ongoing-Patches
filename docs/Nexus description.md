@@ -1,8 +1,8 @@
-[center]![](https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/logo.png)[/center]
+[center]![](https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/logo.png)[/center]
 
 ## [center]A series of random patches and fixes that I'll continuously add onto and maintain[/center]
 
-[center]![](https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/patches.png)[/center]
+[center]![](https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/patches.png)[/center]
 
 
 
@@ -50,13 +50,15 @@
     - Lux Orbis
 
 
-[center]![](https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/links_divider.png)[/center]
+[center][img]https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/links_divider.png[/img][/center]
 
 
-[center]![](https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/patch_descriptions.png) ![](https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/changelog.png) ![](https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/discord.png)[/center]
+  [center][url=https://github.com/mosharky/Ongoing-Patches/wiki][img]https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/patch_descriptions.png[/img][/url][/center]
+  [center][url=https://github.com/mosharky/Ongoing-Patches/blob/main/CHANGELOG.md][img]https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/changelog.png[/img][/url][/center]
+  [center][url=https://discord.gg/4fcsmF2VHK][img]https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/discord.png[/img][/url][/center]
 
 
-[center]![](https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/credits.png)[/center]
+[center][img]https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/credits.png[/img][/center]
 
 
 - **EvilEyedKyo**, for creating EEK's Beautiful Whiterun

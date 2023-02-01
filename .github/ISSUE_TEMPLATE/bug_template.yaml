@@ -15,14 +15,15 @@ body:
         - Rodryk's Dragon Bridge
         - Rogue Unicorn's City Trees
         - The Great Cities of JK's North
-        - not here
+        - Skyrim Arrow Overhaul
+        - Miscellaneous
     validations:
       required: true
 
   - type: textarea
     id: description
     attributes:
-      label: Describe your issue. Try to go in-depth.
+      label: Describe your issue. Please provide your load order using Load Order Library if applicable.
     validations:
       required: true
 

@@ -1,5 +1,5 @@
 name: Patch request
-description: Suggest any (like actually any) patch or fix to add to the collection
+description: Suggest any (like actually any) patch or fix to add to the collection. Try to be a bit reasonable though.
 title: '[Patch Request]: '
 labels: [ "patch request" ]
 assignees: mosharky

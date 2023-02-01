@@ -20,6 +20,7 @@
 ## **EEK Tree Swap** (*Base Object Swapper*)
   - For some reason, EEK's Whiterun uses its own base tree object for its Aspen trees, even though it's using vanilla models.
   - This uses Base Object Swapper to change it back to the vanilla base object, meaning your favorite tree mods, that potentially change tree records, can take priority. Use this if you're using Blubbo's Aspens.
+  - Theoretically could be used with other EEK's Whiterun versions if they have the same issue
 
 
 ***

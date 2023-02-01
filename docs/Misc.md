@@ -15,7 +15,8 @@
 - Reverts Whiterun's temple tree records to vanilla
 
 ## **Happy Little Trees - Snow Pine Priority**
-- Adds Happy Little Trees's Snow Pine settings in an ESP, so you can have a mod that uses an ESP for its settings and model file-paths. For example, with NotWL and I think Ulvenwald, you can use this ESP to overwrite their model changes to snow pines. 
+- Use this if you want to combine Happy Little Trees' snow pines with another tree mod that uses an ESP to directly change tree records and point them towards a different model file-path
+- ex: Let NoTWL or Ulvenwald overwrite Happy Little Trees and load after its ESP, but if you want to preserve Happy Little Trees snow pines, let **this** ESP load after them.
 
 ## **ArteFakes Stripped**
 - Makes ArteFakes *just* a unique weapon model replacer, and re-applies vanilla balancing, keywords, flags and recipes
@@ -68,10 +69,3 @@
 
 ## **Unplayable Factions Armor - Tamrielic Distribution + Pirates Wield Cutlasses Patch**
 - Makes certain pirates (Blood Horkers, Blackbloods, and certain NPCs) wear NordWarUA's new armor while using the new cutlasses
-
-
-***
-
-
-<b><h1 align="center">Load Order</h1></b>
-My mods are in bold and italics.

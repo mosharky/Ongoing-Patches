@@ -1,13 +1,14 @@
-<p align="center"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/logo.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/logo.png"></p>
 
 <h2 align="center">A series of random patches and fixes that I'll continuously add onto and maintain<h2>
 
-<p align="center"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/patches.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/patches.png"></p>
 
 
 
 
-## **[EEK's Beautiful Whiterun by EvilEyedKyo](https://www.nexusmods.com/skyrimspecialedition/mods/15820)**
+## **[EEK's Beautiful Whiterun (JK's Skyrim) by EvilEyedKyo](https://www.nexusmods.com/skyrimspecialedition/mods/15820)**
+This requires the JK's Skyrim version.
 - **Addons:**
   - **No Tree Circle Braziers** - (*Removes the braziers around the Kynareth tree*)
     - **No Tree Circle Braziers for Lux Orbis** - (*Choose one or the other.*)
@@ -53,7 +54,7 @@
   - **Lux** - (*Ensures the right Lux patches between COTN and TGC win*)
   - **Lux Orbis** - (*Ensures the right patches between COTN and TGC win*)
   - **The Great Cities of JK's North + Rodryk's Dragon Bridge:**
-    - **Combo Patch** - (*Tries to combine the two in the laziest way possible. Please see full description*)
+    - **Combo Patch** - (*Tries to combine the two in the laziest way possible. [Please see full description](https://github.com/mosharky/Ongoing-Patches/wiki/The-Great-Cities-of-JK's-North#rodryks-dragon-bridge-combo-patch)*)
     - **Lux Orbis**
 
 
@@ -63,7 +64,7 @@
 - **Patches:**
   - **Unofficial Skyrim Special Edition Patch** (USSEP) - (*Forwards most USSEP changes and keywords*)
   - **Weapons Armor Clothes & Clutter Fixes** (WACCF) - (*Forwards most WACCF changes and keywords*)
-  - **Adamant - A Perk Overhaul** - (*Forwards recipe perk condition changes for Nordic and Stahlrim items*)
+  - **Adamant** - (*Forwards recipe perk condition changes for Nordic and Stahlrim items*)
   - **aMidianborn Skyforge Weapons** - (*Adds SAO keywords and balancing to the Skyforge Steel arrow, arrow recipe, and bow*)
   - **Cloaks of Skyrim** - (*Merges SAO and Cloaks of Skyrim outfits*)
   - **C.O.I.N.** - (*Merges Draugr Treasure Chest record*)
@@ -89,10 +90,10 @@
   - **Happy Little Trees - Snow Pine Priority** - (*[See detailed description](https://github.com/mosharky/Ongoing-Patches/wiki/Miscellaneous#happy-little-trees---snow-pine-priority)*)
   - **ArteFakes Stripped** (*[Full description here](https://github.com/mosharky/Ongoing-Patches/wiki/Miscellaneous#artefakes-stripped). Strips down ArteFakes to be more of a replacer*)
     - **Patches:** - (*This will work with normal ArteFakes, but these dont touch the weapons added by it since Stripped removes them*)
-    - **WACCF** - (*Forwards WACCF balancing and keywords*)
-    - **Thaumaturgy** - (*Forwards MagicDisallowEnchanting keyword to Steel Battleaxe of Fiery Souls*)
-    - **Skyrim Arrow Overhaul** - (*Forwards SAO keywords and descriptions*)
-      - **Skyrim Arrow Overhaul + WACCF** - (*Choose one or the other*)
+      - **WACCF** - (*Forwards WACCF balancing and keywords*)
+      - **Thaumaturgy** - (*Forwards MagicDisallowEnchanting keyword to Steel Battleaxe of Fiery Souls*)
+      - **Skyrim Arrow Overhaul** - (*Forwards SAO keywords and descriptions*)
+        - **Skyrim Arrow Overhaul + WACCF** - (*Choose one or the other*)
 - **Patches:**
   - **Book Covers Skyrim - Puzzle Variations Patch** - (*Forwards BCS's model to Puzzle Variation's edited "Notes on Yngol Barrow"*)
   - **Cathedral Mountain Flowers - Mesh Fixes** - (*Fixes towards Purple and Red Mountain Flower meshes*)
@@ -104,19 +105,19 @@
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/links_divider.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/links_divider.png"></p>
 
 
 
 <p align="center">
-  <a href="https://github.com/mosharky/Ongoing-Patches/wiki"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/patch_descriptions.png" width=320/></a>
-  <a href="https://github.com/mosharky/Ongoing-Patches/blob/main/CHANGELOG.md"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/changelog.png" width=320/></a>
-  <a href="https://discord.gg/4fcsmF2VHK"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/discord.png" width=320/></a>
+  <a href="https://github.com/mosharky/Ongoing-Patches/wiki"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/patch_descriptions.png" width=320/></a>
+  <a href="https://github.com/mosharky/Ongoing-Patches/blob/main/CHANGELOG.md"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/changelog.png" width=320/></a>
+  <a href="https://discord.gg/4fcsmF2VHK"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/discord.png" width=320/></a>
 </p>
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/Media/credits.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/credits.png"></p>
 
 - **EvilEyedKyo**, for creating EEK's Beautiful Whiterun
 - **jkrojmal**, for JK's Skyrim
@@ -127,4 +128,9 @@
 - **Janquel**, for being cool and helpful
 - **SkyHUD/Fhaarkas**, for allowing mod authors to use their UI assets
 - **Koveich**, for their open-source Sovngarde font
+- **skyfall515**, for Fortified Whiterun
+- **robertgk2017**, for being a significant aid and being cool
+- **ra2phoenix**, for being a significant aid and being cool
+- **MaGlass**, for Skyrim Arrow Overhaul and allowing me to upload patches
+- **DrJacopo**, for his cathedral/parlor/open-source philosophy :)
 - **my girlfriend**, for scratching my beard while i mod skyrim and helping me with photoshop
