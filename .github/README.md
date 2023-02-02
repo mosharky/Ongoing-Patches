@@ -64,27 +64,28 @@ This requires the JK's Skyrim version.
 - **Patches:**
   - **Unofficial Skyrim Special Edition Patch** (USSEP) - (*Forwards most USSEP changes and keywords*)
   - **Weapons Armor Clothes & Clutter Fixes** (WACCF) - (*Forwards most WACCF changes and keywords*)
-  - **Adamant** - (*Forwards recipe perk condition changes for Nordic and Stahlrim items*)
+  - **Adamant** - (*Forwards recipe perk condition changes for Nordic and Stahlrim items. Use instead of official patch*)
   - **aMidianborn Skyforge Weapons** - (*Adds SAO keywords and balancing to the Skyforge Steel arrow, arrow recipe, and bow*)
   - **Cloaks of Skyrim** - (*Merges SAO and Cloaks of Skyrim outfits*)
   - **C.O.I.N.** - (*Merges Draugr Treasure Chest record*)
   - **Dragon War** - (*Forwards SAO skeleton keyword to undead dragon race records*)
   - **Manbeast** - (*Forwards SAO werewolf keyword to Werewolf race record*)
-  - **Mysticism** - (*Forwards SAO magic armor keyword to Fortify Armor Rating effects*)
-    - **Mysticism + Immersive Sounds Patch** - (*Choose one or the other. Forwards Mysticism ISC patch changes to sound*)
+  - **Mysticism** - (*Forwards SAO magic armor keyword to Fortify Armor Rating effects. Use instead of official patch*)
+    - **Mysticism + Immersive Sounds Patch** - (*Forwards Mysticism ISC patch changes to sound*)
   - **Thaumaturgy** - (*Removes enchanted bows from leveled lists*)
   - **Reliquary of Myth** - (*Forwards and adds SAO Keywords, flags, and items*)
     - **Reliquary of Myth + WACCF** - (*Choose one or the other*)
   - **Sets of Skyrim** - (*Forwards SAO changes*)
     - **Sets of Skyrim + WACCF** - (*Choose one or the other*)
   - **Sons of Skyrim** - (*Adds Quivers to Sons of Skyrim guard outfit changes*)
-  - **Unplayable Factions Armor** - (*Forwards and adds SAO Keywords, flags, and items*)
+  - **Skyrim Unbound** - (*Adds a Bolt Bag and Leather Quiver in the Inventory MCM section*)
+  - **Unplayable Factions Armors** - (*Forwards and adds SAO Keywords, flags, and items*)
 
 
 ## **Miscellaneous**
 - **Addons:**
   - **Adamant - Disable Default Bow Zoom** - (*Disables Adamant's default bow zoom perk*)
-  - **Nature of the Wildlands - No Soulstheim Grass** - (*Reverts Soulstheim Landscape textures records to vanilla; where there is no grass*)
+  - **Nature of the Wildlands - No Soulstheim Grass** - (*Reverts Soulstheim Landscape textures records to vanilla; where there was no grass*)
   - **Nature of the Wildlands - Revert Shrubs** - (*Reverts tree shrub tree records to vanilla*)
   - **Nature of the Wildlands - Revert Whiterun Temple Tree** - (*Reverts Whiterun's temple tree records to vanilla*)
   - **Happy Little Trees - Snow Pine Priority** - (*[See detailed description](https://github.com/mosharky/Ongoing-Patches/wiki/Miscellaneous#happy-little-trees---snow-pine-priority)*)
@@ -100,7 +101,7 @@ This requires the JK's Skyrim version.
   - **Cathedral Mountain Flowers - Swap Windhelm Flowers** - (*For Base Object Swapper. Swaps Mountain Flowers in Windhelm to Snowy variants*)
   - **JS Unique Daggers - Reliquary of Myth Patch** - (*Patched Nettlebane to use JS's model and RoM's balancing and enchantment*)
   - **JS Unique Daggers - WACCF Patch** - (*Forwards WACCF balancing and keywords*)
-  - **Unplayable Factions Armor - Tamrielic Distribution + Pirates Wield Cutlasses Patch**
+  - **Unplayable Faction Armors - Tamrielic Distribution + Pirates Wield Cutlasses Patch**
     - *Makes certain pirates (Blood Horkers, Blackbloods, and certain NPCs) wear NordWarUA's new armor while using the new cutlasses*
 
 

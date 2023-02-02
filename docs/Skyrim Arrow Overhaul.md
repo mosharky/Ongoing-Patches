@@ -20,6 +20,7 @@
 
 ## **Adamant:**
   - Forwards recipe perk condition changes for Nordic and Stahlrim items
+  - Takes the Adamant + Mysticism patch from base SAO and seperates it, along with other changes like the above (use this instaed)
 
 ## **aMidianborn Skyforge Weapons:**
   - Adds SAO keywords and balancing to the Skyforge Steel arrow, arrow recipe, and bow
@@ -38,10 +39,9 @@
 
 ## **Mysticism:**
   - Forwards SAO magic armor keyword to Fortify Armor Rating effects
-
+  - Takes the Adamant + Mysticism patch from base SAO and seperates it, along with other changes like the above (use this instaed)
   - ### **Mysticism + Immersive Sounds:**
     - Forwards Mysticism ISC patch changes to sound
-    - Choose one or the other
 
 ## **Thaumaturgy:**
   - Removes enchanted bows from leveled lists
@@ -65,7 +65,10 @@
 ## **Sons of Skyrim:**
   - Adds Quivers to Sons of Skyrim guard outfit changes
 
-## **Unplayable Factions Armor:**
+## **Skyrim Unbound Patch:**
+  - Adds a Bolt Bag and Leather Quiver in the Inventory MCM section
+
+## **Unplayable Faction Armors:**
   - Adds Silver Bolts to Silverhand crossbow NPCs
   - Adds Bolt Bags to the new Silverhand outfits
   - Adds Iron Quivers to Bow-wielding Alikr
@@ -81,22 +84,22 @@ My mods are in bold and italics.
 
 1. Unofficial Skyrim Special Edition Patch
 2. Weapons Armor Clothing and Clutter Fixes
-3. Adamant
-4. Mysticism
+3. Mysticism
+4. Adamant
 5. Thaumaturgy
 6. Manbeast
 7. Dragon War
-8. C.O.I.N.
-9. Audio Overhaul
+8.  C.O.I.N.
+9.  Audio Overhaul
 10. Enhanced Blood Textures
 11. aMidianborn Skyforge Weapons
 12. Cloaks of Skyrim
 13. Skyrim Arrow Overhaul
 14. ***SAO - USSEP Patch***
 15. ***SAO - WACCF Patch***
-16. ***SAO - Adamant Patch***
-17. ***SAO - Mysticism Patch***
-18. ***SAO - Mysticism + ISC Patch***
+16. ***SAO - Mysticism Patch***
+17. ***SAO - Mysticism + ISC Patch***
+18. ***SAO - Adamant Patch***
 19. ***SAO - Thaumaturgy Patch***
 20. ***SAO - Manbeast Patch***
 21. ***SAO - Dragon War Patch***

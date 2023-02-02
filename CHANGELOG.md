@@ -33,6 +33,7 @@
 
 - **Added Adamant Patch:**
   - Forwards recipe perk condition changes for Nordic and Stahlrim items
+  - Takes the Adamant + Mysticism patch from base SAO and seperates it, along with other changes like the above (use this instaed)
 
 - **Added aMidianborn Skyforge Weapons Patch:**
   - Adds SAO keywords and balancing to the Skyforge Steel arrow, arrow recipe, and bow
@@ -51,10 +52,10 @@
 
 - **Added Mysticism Patch:**
   - Forwards SAO magic armor keyword to Fortify Armor Rating effects
+  - Takes the Adamant + Mysticism patch from base SAO and seperates it, along with other changes like the above (use this instaed)
 
   - **Added Mysticism + Immersive Sounds Patch:**
     - Forwards Mysticism ISC patch changes to sound
-    - Choose one or the other
 
 - **Added Thaumaturgy Patch:**
   - Removes enchanted bows from leveled lists
@@ -77,6 +78,9 @@
 
 - **Added Sons of Skyrim Patch:**
   - Adds Quivers to Sons of Skyrim guard outfit changes
+
+- **Added Skyrim Unbound Patch:**
+  - Adds a Bolt Bag and Leather Quiver in the Inventory MCM section
 
 - **Added Unplayable Factions Armor Patch:**
   - Adds Silver Bolts to Silverhand crossbow NPCs
@@ -148,7 +152,7 @@
 - **Added Happy Little Trees - Snow Pine Priority**
   - Adds Happy Little Trees's Snow Pine settings in an ESP, so you can have a mod that uses an ESP for its settings and model file-paths. For example, with NotWL and I think Ulvenwald, you can use this ESP to overwrite their model changes to snow pines. 
 
-- **Added Unplayable Factions Armor - Tamrielic Distribution + Pirates Wield Cutlasses Patch:**
+- **Added Unplayable Factions Armors - Tamrielic Distribution + Pirates Wield Cutlasses Patch:**
   - Makes certain pirates (Blood Horkers, Blackbloods, and certain NPCs) wear NordWarUA's new armor while using the new cutlasses
 
 

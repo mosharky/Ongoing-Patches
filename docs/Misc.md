@@ -16,7 +16,7 @@
 
 ## **Happy Little Trees - Snow Pine Priority**
 - Use this if you want to combine Happy Little Trees' snow pines with another tree mod that uses an ESP to directly change tree records and point them towards a different model file-path
-- ex: Let NoTWL or Ulvenwald overwrite Happy Little Trees and load after its ESP, but if you want to preserve Happy Little Trees snow pines, let **this** ESP load after them.
+- ex: Let NoTWL or Ulvenwald, etc. overwrite Happy Little Trees and load after its ESP, but if you want to preserve Happy Little Trees snow pines, let **this** ESP load after them.
 
 ## **ArteFakes Stripped**
 - Makes ArteFakes *just* a unique weapon model replacer, and re-applies vanilla balancing, keywords, flags and recipes
@@ -53,8 +53,8 @@
 
 ## **Cathedral Mountain Flowers - Mesh Fixes**
 - Directs Purple Mountain Flower meshes to a seperate texture from Cathedral 3D Pine Grass
-  - Fixed conflict when using 3D Pine Grass + Cathedral Mountain Flowers + 3D Pine Grass ENB Complex Grass textures
-- Fixed Snowy Red Mountain Flowers mesh not pointing towards the snowy red mountain flower texture
+  - Fixes conflict when using 3D Pine Grass + Cathedral Mountain Flowers + 3D Pine Grass ENB Complex Grass textures
+- Fixes Snowy Red Mountain Flowers mesh not pointing towards the snowy red mountain flower texture
 
 ## **Cathedral Mountain Flowers - Swap Windhelm Flowers** (*Base Object Swapper*)
 - Swaps all mountain flowers in Windhelm to snowy versions added by Cathedral
@@ -62,7 +62,7 @@
 - **Requires Base Object Swapper**
 
 ## **JS Unique Daggers - Reliquary of Myth Patch**
-- Patched Nettlebane to use JS's model and RoM's balancing and enchantment
+- Patches Nettlebane to use JS's model and RoM's balancing and enchantment
 
 ## **JS Unique Daggers - WACCF Patch**
 - Forwards WACCF balancing and keywords
