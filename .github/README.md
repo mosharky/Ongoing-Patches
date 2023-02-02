@@ -112,7 +112,7 @@ This requires the JK's Skyrim version.
 
 <p align="center">
   <a href="https://github.com/mosharky/Ongoing-Patches/wiki"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/patch_descriptions.png" width=320/></a>
-  <a href="https://github.com/mosharky/Ongoing-Patches/blob/main/CHANGELOG.md"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/changelog.png" width=320/></a>
+  <a href="https://github.com/mosharky/Ongoing-Patches/blob/main/CHANGELOG.md#changelog"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/changelog.png" width=320/></a>
   <a href="https://discord.gg/4fcsmF2VHK"><img src="https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/discord.png" width=320/></a>
 </p>
 

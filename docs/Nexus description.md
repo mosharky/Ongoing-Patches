@@ -42,7 +42,7 @@ This requires the JK's Skyrim version.
     - **Lux Orbis + JK's Skyrim Patch** - (*Removes the two maple vines that clip into the Lux Orbis - JK's Skyrim Patch's two braziers*)
 ### [u]**[The Great Cities of JK's North by Garrden](https://www.nexusmods.com/skyrimspecialedition/mods/81042)**[/u]
 - [u]**Patches:**[/u] - I would highly suggest you view the [full patch descriptions](https://github.com/mosharky/Ongoing-Patches/wiki/The-Great-Cities-of-JK's-North) for load order guidance and more information
-  - ~~Fixes~~ *integrated into TGCoJKN now*
+  - [s]Fixes[/s] *integrated into TGCoJKN now*
   - **Lux** - (*Ensures the right Lux patches between COTN and TGC win*)
   - **Lux Orbis** - (*Ensures the right patches between COTN and TGC win*)
   - [u]**The Great Cities of JK's North + Rodryk's Dragon Bridge:**[/u]
@@ -97,7 +97,7 @@ This requires the JK's Skyrim version.
 
 
 [center][url=https://github.com/mosharky/Ongoing-Patches/wiki][img]https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/patch_descriptions.png[/img][/url][/center]
-[center][url=https://github.com/mosharky/Ongoing-Patches/blob/main/CHANGELOG.md][img]https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/changelog.png[/img][/url][/center]
+[center][url=https://github.com/mosharky/Ongoing-Patches/blob/main/CHANGELOG.md#changelog][img]https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/changelog.png[/img][/url][/center]
 [center][url=https://discord.gg/4fcsmF2VHK][img]https://raw.githubusercontent.com/mosharky/Ongoing-Patches/main/images/discord.png[/img][/url][/center]
 
 
