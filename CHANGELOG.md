@@ -1,9 +1,81 @@
-<h2 align="center"><b>CHANGELOG</h2></b>
+<h1 align="center"><b>CHANGELOG</h1></b>
 <p align="center"><b>day/month/year</b></p>
 ‎
 
 
-## **[v1.1.0] - 01/02/2023**
+<h1 align="center"><b>[v1.1.1] - 23/08/2023</h1></b>
+
+- Improved FOMOD overall
+
+### **The Great Cities of JK's North:**
+- Removed **Fixes** patch but for real this time (it's been incorporated into the main patch now)
+- **Rodryk's Dragon Bridge patch**
+  - Apparently there was a deleted navmesh. Super sorry to anyone who had issues due to this!
+  - Cleaned with QAC
+  - WARNING: Updating might need a new save?
+- **Lux Orbis patch**
+  - Removed floating firepit in Windhelm
+
+
+### **RogueUnicorn's City Trees:**
+- Removed landscape records from City Trees Whiterun - JK's Skyrim Patch Fix (???? how did they even get there)
+
+
+### **Skyrim Arrow Overhaul:**
+Sorry for taking so long! Everything should be up-to-date with all the SPID changes taken into account. No more crashing!
+
+- **Added The Dragon Cult - A Draugr Overhaul patch**
+  - Value changes and keyword forwarding
+- **Added The Dragon Cult - A Draugr Overhaul + WACCF patch**
+  - Value changes and keyword forwarding
+- **Added Thaumaturgy + WACCF patch**
+  - Naming consistency
+- **Changed No Perk Categories addon**
+  - Renamed to "Language Tweaks"
+  - Now improves the English on arrowheads, a few perk descriptions, and the newly added book
+- Removed redundant patches:
+  - Sons of Skyrim
+  - Cloaks of Skyrim
+  - Manbeast
+  - Dragon War
+  - COIN
+- Adjusted patches:
+  - WACCF
+  - Sets of Skyrim
+  - Sets of Skyrim + WACCF
+  - Mysticism
+  - Adamant
+  - USSEP
+  - RoM
+  - RoM + WACCF
+
+
+### **Miscellaneous:**
+- **Changed ArteFakes Stripped**
+  - Removed templates from weapon records. This would've caused the weapons to not have unique models
+  - Re-enabled tempering recipes
+  - Many tiny changes
+  - **Added RoM Patch**
+    - Forwards RoM stats & enchants but keeps ArteFakes' new model
+    - Can/should be used instead of the official ArteFakes RoM patch
+  - **Added RoM + WACCF Patch**
+    - Forwards WACCF keyword changes
+  - **Changed WACCF Patch**
+    - Removed templates from weapon records
+  - **Changed Thaumaturgy Patch**
+    - Removed templates from weapon records
+  - **Changed SAO Patch**
+    - Removed deleted object effects(?)
+  - **Changed SAO + WACCF Patch**
+    - Removed templates from weapon records
+    - Removed deleted object effects(?)
+
+
+***
+
+
+<h1 align="center"><b>[v1.1.0] - 01/02/2023</h1></b>
+
 - Added **"Base Object Swapper"** as a manual detection mod
 - Added **"Skyrim Arrow Overhaul"** patch page
 - Added **"Miscellaneous"** patch section
@@ -159,8 +231,10 @@
 ***
 
 
-## **[v1.0.2] - 10/01/2023**
+<h1 align="center"><b>[v1.0.2] - 10/01/2023</h1></b>
+
 - Multiple FOMOD fixes
+
 ### **EEK's Whiterun:**
 - **Fixes:**
   - Renamed EEK's added guards to "Whiterun Guard"
@@ -185,7 +259,8 @@
 ***
 
 
-## **[v1.0.1] - 08/01/2023**
+<h1 align="center"><b>[v1.0.1] - 08/01/2023</h1></b>
+
 ### **Rodryk's Dragon Bridge:**
 - **Added Rodryk's Dragon Bridge + JK's Skyrim - LFFGM Patch Fix**
   - Requires [Rodryks x JK's Skyrim LFFGM Patch by somohexual](https://www.nexusmods.com/skyrimspecialedition/mods/50408)
@@ -195,7 +270,8 @@
 ***
 
 
-## **[v1.0.0] - 05/01/2023 - Transition Update**
+<h1 align="center"><b>[v1.0.0] - 05/01/2023 - Transition Update**</h1></b>
+
 - Happy new year!
 - Reworked the entire mod & mod page to be centered around a bunch of city mods instead of just The Great Cities of JK's North
 - Reworked and reorganized FOMOD

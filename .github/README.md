@@ -48,9 +48,8 @@ This requires the JK's Skyrim version.
     - **Lux Orbis + JK's Skyrim Patch** - (*Removes the two maple vines that clip into the Lux Orbis - JK's Skyrim Patch's two braziers*)
 
 
-## **[The Great Cities of JK's North by Garrden](https://www.nexusmods.com/skyrimspecialedition/mods/81042)**
+## **[The Great Cities of JK's North by Garrden](https://www.nexusmods.com/skyrimspecialedition/mods/33687)**
 - **Patches:** - I would highly suggest you view the [full patch descriptions](https://github.com/mosharky/Ongoing-Patches/wiki/The-Great-Cities-of-JK's-North) for load order guidance and more information
-  - ~~Fixes~~ *integrated into TGCoJKN now*
   - **Lux** - (*Ensures the right Lux patches between COTN and TGC win*)
   - **Lux Orbis** - (*Ensures the right patches between COTN and TGC win*)
   - **The Great Cities of JK's North + Rodryk's Dragon Bridge:**
@@ -60,26 +59,24 @@ This requires the JK's Skyrim version.
 
 ## **[Skyrim Arrow Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/82477)**
 - **Addons:**
-  - **No Perk Categories** - (*Removes the categories from perk names*)
+  - **Language Tweaks** - (*Removes the categories from perk names, improves language in general*)
 - **Patches:**
   - **Unofficial Skyrim Special Edition Patch** (USSEP) - (*Forwards most USSEP changes and keywords*)
   - **Weapons Armor Clothes & Clutter Fixes** (WACCF) - (*Forwards most WACCF changes and keywords*)
   - **Adamant** - (*Forwards recipe perk condition changes for Nordic and Stahlrim items. Use instead of official patch*)
   - **aMidianborn Skyforge Weapons** - (*Adds SAO keywords and balancing to the Skyforge Steel arrow, arrow recipe, and bow*)
-  - **Cloaks of Skyrim** - (*Merges SAO and Cloaks of Skyrim outfits*)
-  - **C.O.I.N.** - (*Merges Draugr Treasure Chest record*)
-  - **Dragon War** - (*Forwards SAO skeleton keyword to undead dragon race records*)
-  - **Manbeast** - (*Forwards SAO werewolf keyword to Werewolf race record*)
   - **Mysticism** - (*Forwards SAO magic armor keyword to Fortify Armor Rating effects. Use instead of official patch*)
     - **Mysticism + Immersive Sounds Patch** - (*Forwards Mysticism ISC patch changes to sound*)
   - **Thaumaturgy** - (*Removes enchanted bows from leveled lists*)
+    - **Thaumaturgy + WACCF** - (*Naming consistency*)
   - **Reliquary of Myth** - (*Forwards and adds SAO Keywords, flags, and items*)
     - **Reliquary of Myth + WACCF** - (*Choose one or the other*)
   - **Sets of Skyrim** - (*Forwards SAO changes*)
     - **Sets of Skyrim + WACCF** - (*Choose one or the other*)
-  - **Sons of Skyrim** - (*Adds Quivers to Sons of Skyrim guard outfit changes*)
   - **Skyrim Unbound** - (*Adds a Bolt Bag and Leather Quiver in the Inventory MCM section*)
   - **Unplayable Factions Armors** - (*Forwards and adds SAO Keywords, flags, and items*)
+  - **The Dragon Cult - A Draugr Overhaul** - (*Value changes and keyword forwarding*)
+    - **The Dragon Cult - A Draugr Overhaul + WACCF** - (*Value changes and keyword forwarding*)
 
 
 ## **Miscellaneous**
@@ -92,9 +89,11 @@ This requires the JK's Skyrim version.
   - **ArteFakes Stripped** (*[Full description here](https://github.com/mosharky/Ongoing-Patches/wiki/Miscellaneous#artefakes-stripped). Strips down ArteFakes to be more of a replacer*)
     - **Patches:** - (*This will work with normal ArteFakes, but these dont touch the weapons added by it since Stripped removes them*)
       - **WACCF** - (*Forwards WACCF balancing and keywords*)
-      - **Thaumaturgy** - (*Forwards MagicDisallowEnchanting keyword to Steel Battleaxe of Fiery Souls*)
+      - **Thaumaturgy** - (*Forwards MagicDisallowEnchanting keyword to Steel Battleaxe of Fiery Souls - very minor*)
       - **Skyrim Arrow Overhaul** - (*Forwards SAO keywords and descriptions*)
-        - **Skyrim Arrow Overhaul + WACCF** - (*Choose one or the other*)
+        - **Skyrim Arrow Overhaul + WACCF** - (*Forwards WACCF keyword changes*)
+      - **Reliquary of Myth** - (*Forwards RoM stats & enchants but keeps ArteFakes' new model. Can/should be used instead of the official ArteFakes RoM patch*)
+        - **Reliquary of Myth + WACCF** - (*Forwards WACCF keyword changes*)
 - **Patches:**
   - **Book Covers Skyrim - Puzzle Variations Patch** - (*Forwards BCS's model to Puzzle Variation's edited "Notes on Yngol Barrow"*)
   - **Cathedral Mountain Flowers - Mesh Fixes** - (*Fixes towards Purple and Red Mountain Flower meshes*)
@@ -133,5 +132,4 @@ This requires the JK's Skyrim version.
 - **robertgk2017**, for being a significant aid and being cool
 - **ra2phoenix**, for being a significant aid and being cool
 - **MaGlass**, for Skyrim Arrow Overhaul and allowing me to upload patches
-- **DrJacopo**, for his cathedral/parlor/open-source philosophy :)
-- **my girlfriend**, for scratching my beard while i mod skyrim and helping me with photoshop
+- **DrJacopo**, for his cathedral/parlor/open-source philosophy and Cathedral Mountain Flowers :)

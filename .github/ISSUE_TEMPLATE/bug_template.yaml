@@ -16,6 +16,7 @@ body:
         - Rogue Unicorn's City Trees
         - The Great Cities of JK's North
         - Skyrim Arrow Overhaul
+        - ArteFakes
         - Miscellaneous
     validations:
       required: true

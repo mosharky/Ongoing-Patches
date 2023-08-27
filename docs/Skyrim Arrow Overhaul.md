@@ -1,122 +1,35 @@
 <b><h1 align="center">Addons</h1></b>
 
-
-## **No Perk Categories**
-  - Removes the categories from perk names (i.e "*Eagle Eye*" instead of "*Strength: Eagle Eye*")
+IN PROGRESS
 
 
-***
 
 
 <b><h1 align="center">Patches</h1></b>
 
-## **Unofficial Skyrim Special Edition Patch:**
-  - Forwards most USSEP changes and keywords
-
-## **Weapons Armor Clothing & Clutter Fixes:**
-  - Forwards WACCF value changes and keywords
-  - Forwards tier balancing for Orcish, Elven, and Dwarven bows
-  - Forwards recipe condition changes
-
-## **Adamant:**
-  - Forwards recipe perk condition changes for Nordic and Stahlrim items
-  - Takes the Adamant + Mysticism patch from base SAO and seperates it, along with other changes like the above (use this instaed)
-
-## **aMidianborn Skyforge Weapons:**
-  - Adds SAO keywords and balancing to the Skyforge Steel arrow, arrow recipe, and bow
-
-## **Cloaks of Skyrim:**
-  - Merges SAO and Cloaks of Skyrim outfits
-
-## **C.O.I.N.:**
-  - Merges Draugr Treasure Chest record
-
-## **Dragon War:**
-  - Forwards SAO skeleton keyword to undead dragon race records
-
-## **Manbeast:**
-  - Forwards SAO werewolf keyword to Werewolf race record
-
-## **Mysticism:**
-  - Forwards SAO magic armor keyword to Fortify Armor Rating effects
-  - Takes the Adamant + Mysticism patch from base SAO and seperates it, along with other changes like the above (use this instaed)
-  - ### **Mysticism + Immersive Sounds:**
-    - Forwards Mysticism ISC patch changes to sound
-
-## **Thaumaturgy:**
-  - Removes enchanted bows from leveled lists
-
-## **Reliquary of Myth:**
-  - Adds SAO keywords and flags to new bows and arrows
-  - Adds Ebony Quiver to Dremora Archer outfit
-  - Forwards SAO keywords and balancing to bows
-
-  - ### **Reliquary of Myth + WACCF:**
-    - Forwards WACCF value changes and keywords
-    - Choose one or the other
-
-## **Sets of Skyrim:**
-  - Forwards SAO changes
-
-  - ### **Sets of Skyrim + WACCF:**
-    - Forwards SAO changes *and* WACCF keywords
-    - Choose one or the other
-
-## **Sons of Skyrim:**
-  - Adds Quivers to Sons of Skyrim guard outfit changes
-
-## **Skyrim Unbound Patch:**
-  - Adds a Bolt Bag and Leather Quiver in the Inventory MCM section
-
-## **Unplayable Faction Armors:**
-  - Adds Silver Bolts to Silverhand crossbow NPCs
-  - Adds Bolt Bags to the new Silverhand outfits
-  - Adds Iron Quivers to Bow-wielding Alikr
-  - Adds SAO keywords to the new Silverhand Crossbow
-  - Changed Silverhand Crossbow to classify as a silver weapon instead of steel (with keywords), just a mini bug-fix. I'm not sure if this would matter in any context though
 
 
-***
 
 <b><h1 align="center">Load Order</h1></b>
 My mods are in bold and italics.
 
-
-1. Unofficial Skyrim Special Edition Patch
-2. Weapons Armor Clothing and Clutter Fixes
-3. Mysticism
-4. Adamant
-5. Thaumaturgy
-6. Manbeast
-7. Dragon War
-8.  C.O.I.N.
-9.  Audio Overhaul
-10. Enhanced Blood Textures
-11. aMidianborn Skyforge Weapons
-12. Cloaks of Skyrim
-13. Skyrim Arrow Overhaul
-14. ***SAO - USSEP Patch***
-15. ***SAO - WACCF Patch***
-16. ***SAO - Mysticism Patch***
-17. ***SAO - Mysticism + ISC Patch***
-18. ***SAO - Adamant Patch***
-19. ***SAO - Thaumaturgy Patch***
-20. ***SAO - Manbeast Patch***
-21. ***SAO - Dragon War Patch***
-22. ***SAO - Cloaks of Skyrim***
-23. ***SAO - COIN Patch***
-24. ***SAO - aMidianborn Skyforge Weapons Patch***
-25. Reliquary of Myth
-26. ***SAO - RoM Patch***
-27. ***SAO - RoM + WACCF Patch***
-28. Sets of Skyrim
-29. ***SAO - Sets of Skyrim Patch***
-30. ***SAO - Sets of Skyrim + WACCF Patch***
-31. Sons of Skyrim
-32. ***SAO - Sons of Skyrim Patch***
-33. Unplayable Factions Armor
-34. ***SAO - Unplayable Factions Armor Patch***
+1. Skyrim Arrow Overhaul.esp
+2. ***SAO - Language Tweaks Patch.esp***
+3. ***SAO - USSEP Patch.esp***
+4. ***SAO - WACCF Patch.esp***
+5. ***SAO - Mysticism Patch.esp***
+6. ***SAO - Mysticism + ISC Patch.esp***
+7. ***SAO - Adamant Patch.esp***
+8. ***SAO - RoM Patch.esp***
+9. ***SAO - RoM + WACCF Patch.esp***
+10. ***SAO - Sets of Skyrim Patch.esp***
+11. ***SAO - Sets of Skyrim + WACCF Patch.esp***
+12. ***SAO - Thaumaturgy Patch.esp***
+13. ***SAO - Thaumaturgy + WACCF Patch.esp***
+14. ***SAO - Dragon Cult Draugr Patch.esp***
+15. ***SAO - Dragon Cult Draugr + WACCF Patch.esp***
+16. ***SAO - Unplayable Faction Armors Patch.esp***
+17. ***SAO - aMidianborn Skyforge Weapons Patch.esp***
 
 
 ## **Notes**
-- Basically, put the mods that you'd want to overwrite SAO under SAO. 
