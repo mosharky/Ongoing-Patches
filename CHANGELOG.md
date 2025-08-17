@@ -1,6 +1,26 @@
 <h1 align="center"><b>CHANGELOG</h1></b>
 <p align="center"><b>day/month/year</b></p>
-‎
+<br>
+
+<h1 align="center"><b>[v1.2.0] - 17/08/2025</h1></b>
+- Improved FOMOD
+
+### **The Great Cities of JK's North:**
+- Removed Lux & Lux Orbis patches (redundant)
+
+### **RogueUnicorn's City Trees:**
+- Removed Lux Orbis + JK's Skyrim patch (redundant)
+- Removed JK's Skyrim Patch Fix (not sure if it still works)
+
+### ArteFakes Stripped
+- Moved loading screen removal to an extra ESP
+- Removed Thaumaturgy patch (redundant)
+- Removed Skyrim Arrow Overhaul patch; (redundant)
+
+### Miscellaneous
+- Removed  Nature of the Wildlands - No Soulstheim Grass patch
+- Removed Happy Little Trees - Snow Pine Priority patch
+
 
 
 <h1 align="center"><b>[v1.1.1] - 23/08/2023</h1></b>

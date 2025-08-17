@@ -1,0 +1,16 @@
+Improved FOMOD
+
+- The Great Cities of JK's North -
+Removed Lux & Lux Orbis patches (redundant)
+
+- RogueUnicorn's City Trees -
+Removed Lux Orbis + JK's Skyrim patch (redundant)
+
+- ArteFakes Stripped -
+Moved loading screen removal to an extra ESP
+Removed Thaumaturgy patch (redundant)
+Removed Skyrim Arrow Overhaul patch; (redundant)
+
+- Miscellaneous -
+Removed  Nature of the Wildlands - No Soulstheim Grass patch
+Removed Happy Little Trees - Snow Pine Priority patch

@@ -1,0 +1,15 @@
+{
+    "requirements": {
+        "required": ["Skyrim Arrow Overhaul.esp"]
+    },
+    "items": [
+        {
+            "sName": "Leather Quiver",
+            "fItem": "0xF388C|Skyrim Arrow Overhaul.esp"
+        },
+        {
+            "sName": "Bolt Bag",
+            "fItem": "0x26A4D1|Skyrim Arrow Overhaul.esp"
+        }
+    ]
+}
